@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Cocoa
 
 /// Day 5 Loops

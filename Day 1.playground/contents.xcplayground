@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
+    <timeline fileName='timeline.xctimeline'/>
+    <pages>
+        <page name='1 - Variables and Constants'/>
+        <page name='2 - Strings'/>
+        <page name='3 - Whole Numbers'/>
+        <page name='4 - Decimals and Type Safety'/>
+    </pages>
+</playground>

@@ -48,5 +48,3 @@ day = .friday//they are the same thing
 
 //learned
 // append,addingCapacity,enum,func, do-catch, try, contains, where, in, remove, removeAll,remove(at),inout, throws, sorted,insert(Sets), enums, .OtherEnum
-
-//: [Next](@next)

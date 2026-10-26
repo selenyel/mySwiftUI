@@ -12,5 +12,3 @@ var canVote = age >= 18 ? true : false
 print("Can vote:", canVote)
 
 //fallthrough,switch-case, ternary operator, shorthand cases, enum & string < > comparisons, if-elseif-else
-
-//: [Next](@next)

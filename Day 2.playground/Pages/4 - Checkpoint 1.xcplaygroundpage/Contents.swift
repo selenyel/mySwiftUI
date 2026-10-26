@@ -25,5 +25,3 @@ else if let temp = constantCelciusTemp as? Int{
 else{
     print("value is not double or integer, cannot be converted")
 }
-
-//: [Next](@next)

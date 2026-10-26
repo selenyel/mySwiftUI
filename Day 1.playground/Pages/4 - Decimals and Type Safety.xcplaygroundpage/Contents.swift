@@ -58,5 +58,3 @@ print(a+Int(b))
 let string = "hello"
 let c : Any? = Int(string)
 print(Int(string) as Any)
-
-//: [Next](@next)
