@@ -19,5 +19,6 @@
         <page name='Day04-03-Conditions'/>
         <page name='Day04-04-SwitchStatements'/>
         <page name='Day04-05-TernaryOperator'/>
+        <page name='Day05-01-ForLoops'/>
     </pages>
 </playground>
