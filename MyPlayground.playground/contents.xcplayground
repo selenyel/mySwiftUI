@@ -14,5 +14,10 @@
         <page name='Day03-02-Dictionaries'/>
         <page name='Day03-03-Sets'/>
         <page name='Day03-04-Enums'/>
+        <page name='Day04-01-TypeAnnotations'/>
+        <page name='Day04-02-Checkpoint2'/>
+        <page name='Day04-03-Conditions'/>
+        <page name='Day04-04-SwitchStatements'/>
+        <page name='Day04-05-TernaryOperator'/>
     </pages>
 </playground>
