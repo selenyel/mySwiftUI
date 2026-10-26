@@ -6,5 +6,9 @@
         <page name='Day01-02-Strings'/>
         <page name='Day01-03-WholeNumbers'/>
         <page name='Day01-04-DecimalsAndTypeSafety'/>
+        <page name='Day02-01-Booleans'/>
+        <page name='Day02-02-StringInterpolation'/>
+        <page name='Day02-03-SummarySimpleData'/>
+        <page name='Day02-04-Checkpoint1'/>
     </pages>
 </playground>
