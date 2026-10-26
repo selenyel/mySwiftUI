@@ -10,5 +10,9 @@
         <page name='Day02-02-StringInterpolation'/>
         <page name='Day02-03-SummarySimpleData'/>
         <page name='Day02-04-Checkpoint1'/>
+        <page name='Day03-01-Arrays'/>
+        <page name='Day03-02-Dictionaries'/>
+        <page name='Day03-03-Sets'/>
+        <page name='Day03-04-Enums'/>
     </pages>
 </playground>
