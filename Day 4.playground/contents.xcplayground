@@ -4,8 +4,5 @@
     <pages>
         <page name='1 - Type Annotations'/>
         <page name='2 - Checkpoint 2'/>
-        <page name='3 - Conditions'/>
-        <page name='4 - Switch Statements'/>
-        <page name='5 - Ternary Operator'/>
     </pages>
 </playground>

@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Cocoa
 
 enum Weathers {
@@ -77,5 +75,3 @@ switch song{
     default:
         print("And lots of love")
 }
-
-//: [Next](@next)

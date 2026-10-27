@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Cocoa
 
 var myScore2 = 85
@@ -62,5 +60,3 @@ if isOwner == true && isEditingEnabled || isAdmin == true { //this line is same 
 if (isOwner == true && isEditingEnabled) || isAdmin == true {// this line because Swift reads left to right
     print("You can delete this post")
 }
-
-//: [Next](@next)
